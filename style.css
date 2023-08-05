@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+ 
+  background-image:url(../images/bg.jpg) ;
+  background-size:100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.heading{
+  background-color: aqua;
+}
